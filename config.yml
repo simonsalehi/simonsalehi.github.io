@@ -55,10 +55,10 @@ params:
     profileMode:
           enabled: true
           title: Simon Salehi
-          subtitle: "Hi, I am a Berlin-based MSc engineer in Renewable Energy Systems with a passion for coding and data analytics. My research has focused on EV charging and battery storage. You can find my master thesis on bidirectional charging [**here**] (in German). If you are interested in the MATLAB code, I can provide it upon request. Contact me on [**LinkedIn**] if you are interested in working together."
+          subtitle: "Hi, I am a Berlin-based MSc engineer in Renewable Energy Systems with a passion for coding and data analytics. My research has focused on EV charging and battery storage. You can find my master thesis on bidirectional charging [**here**](SALEHI-2024-Energetische-und-ökonomische-Bewertung-bidirektionaler-Ladelösungen.pdf) (in German). If you are interested in the MATLAB code, I can provide it upon request. <br><br>Contact me on [**LinkedIn**](https://www.linkedin.com/in/simonsalehi/) if you are interested in working together."
           imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
+          imageWidth: 225
+          imageHeight: 300
           buttons:
             - name: Papers
               url: papers/
@@ -98,7 +98,7 @@ params:
 #          url: https://x.com/pmichaillat
 #        - name: Bluesky
 #          url: https://bsky.app/profile/pmichaillat.bsky.social
-        - name: Linkedin
+        - name: LinkedIn
           url: https://www.linkedin.com/in/simonsalehi/
 
     assets:

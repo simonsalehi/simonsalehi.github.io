@@ -2,7 +2,7 @@
 
 title: "Energetische und ökonomische Bewertung bidirektionaler Ladelösungen" 
 date: 2024-10-28
-tags: ["Bidirectional Charging","Vehicle-to-Home (V2H)","Battery Electric Vehicle (BEV)","Batteries","Photovoltaics"]
+tags: ["Bidirectional Charging","Vehicle-to-Home","Battery Electric Vehicle","Batteries","Photovoltaics"]
 author: ["Simon Salehi"]
 
 ---

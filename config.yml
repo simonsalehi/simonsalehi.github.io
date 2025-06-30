@@ -82,7 +82,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: CV_Salehi.pdf
         - name: Email
           url: mailto:info.simonsalehi@gmail.com
 #        - name: Zoom

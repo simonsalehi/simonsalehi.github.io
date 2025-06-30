@@ -1,6 +1,6 @@
 ---
 
-title: "Solar charging of electric vehicles" 
+title: "Solar charging of electric vehicles (German)" 
 date: 2025-04-28
 author: ["Nico Orth", "Joseph Bergner", "Simon Salehi"]
 

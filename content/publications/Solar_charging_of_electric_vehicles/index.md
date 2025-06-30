@@ -1,6 +1,6 @@
 ---
 
-title: "Solares Laden von Elektrofahrzeugen" 
+title: "Solar charging of electric vehicles" 
 date: 2025-04-28
 author: ["Nico Orth", "Joseph Bergner", "Simon Salehi"]
 

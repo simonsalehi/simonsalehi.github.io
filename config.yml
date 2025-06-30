@@ -58,7 +58,7 @@ params:
     profileMode:
           enabled: true
           title: Simon Salehi
-          subtitle: "Hi, I am a Berlin-based MSc engineer in Renewable Energy Systems with a passion for coding and data analytics. My research has focused on EV charging and battery storage. You can find my master's thesis on bidirectional charging [**here**](https://solar.htw-berlin.de/publikationen/bewertung-bidirektionaler-ladeloesungen/) (in German). If you are interested in the MATLAB code, I can provide it upon request. <br><br>Contact me on [**LinkedIn**](https://www.linkedin.com/in/simonsalehi/) if you are interested in working together."
+          subtitle: "Hi, I am a Berlin-based MSc engineer in Renewable Energy Systems with a passion for coding and data analytics. My research has focused on EV charging and battery storage. You can find my master's thesis on bidirectional charging [**here**](https://solar.htw-berlin.de/publikationen/bewertung-bidirektionaler-ladeloesungen/) (in German). If you are interested in the MATLAB code, I can provide it upon request. <br><br>[**Contact me**](mailto:info.simonsalehi@gmail.com) if you are interested in working together."
           imageUrl: "picture.jpeg"
           imageWidth: 225
           imageHeight: 300
@@ -81,10 +81,10 @@ params:
               url: publications/
 
     socialIcons:
-#        - name: CV
-#          url: cv.pdf
-#        - name: Email
-#          url: mailto:igelfeld@regensburg.edu
+        - name: CV
+          url: cv.pdf
+        - name: Email
+          url: mailto:info.simonsalehi@gmail.com
 #        - name: Zoom
 #          url: https://www.zoom.us/my/igelfeld
 #        - name: Location
